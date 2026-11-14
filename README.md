@@ -10,7 +10,7 @@ It returns one of three decisions:
 
 Live Demo
 
-Dashboard: https://nostrings-cyber.github.io/sentinel-ai./
+Dashboard: https://nostrings-cyber.github.io/sentinel-ai/
 
 Attack Demo: https://nostrings-cyber.github.io/sentinel-ai./Test-attack.html
 
