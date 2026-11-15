@@ -12,7 +12,7 @@ Live Demo
 
 Dashboard: https://nostrings-cyber.github.io/sentinel-ai/
 
-Attack Demo: https://nostrings-cyber.github.io/sentinel-ai./Test-attack.html
+Attack Demo: https://nostrings-cyber.github.io/sentinel-ai/Test-attack.html
 
 How to Test
 
